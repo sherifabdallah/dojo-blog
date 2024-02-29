@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "id": "cdff",
+      "title": "The First Blog!",
+      "body": "Hi I am Sherif and this is my First Blog",
+      "author": "Sherif Abdullah"
+    }
+  ]
+}
